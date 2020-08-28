@@ -4,4 +4,4 @@
 Полученная информация выводится в консоль.
 
 ## Пример запуска скрипта
-![](//https://github.com/LevikovCollector/DEVMAN_API/raw/Weather_lesson/for_readme/console.jpg)
+![](https://github.com/LevikovCollector/DEVMAN_API/blob/Weather_lesson/for_readme/console.jpg)
