@@ -11,5 +11,5 @@
   ```
   python main.py
   ```
-Результат
+
 ![](https://github.com/LevikovCollector/DEVMAN_API/blob/Weather_lesson/for_readme/console.jpg)
